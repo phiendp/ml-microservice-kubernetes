@@ -1,0 +1,6 @@
+kubectl run --generator=deployment/apps.v1 is DEPRECATED and will be removed in a future version. Use kubectl run --generator=run-pod/v1 or kubectl create instead.
+NAME                          READY   STATUS    RESTARTS   AGE
+udacity-p4-6ff74c896b-j5lfq   1/1     Running   0          3m47s
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
