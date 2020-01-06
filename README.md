@@ -7,13 +7,13 @@ In this project, we will operationalize a Machine Learning Microservice API, giv
 ### Project Tasks
 
 The project goal is to operationalize this working, machine learning microservice using [kubernetes](https://kubernetes.io/), which is an open-source system for automating the management of containerized applications. In this project we will:
-* Test the project code using linting
-* Complete a Dockerfile to containerize this application
-* Deploy the containerized application using Docker and make a prediction
-* Improve the log statements in the source code for this application
-* Configure Kubernetes and create a Kubernetes cluster
-* Deploy a container using Kubernetes and make a prediction
-* Upload a complete Github repo with CircleCI to indicate that the code has been tested
+- [x] Test the project code using linting
+- [x] Complete a Dockerfile to containerize this application
+- [x] Deploy the containerized application using Docker and make a prediction
+- [x] Improve the log statements in the source code for this application
+- [x] Configure Kubernetes and create a Kubernetes cluster
+- [x] Deploy a container using Kubernetes and make a prediction
+- [x] Upload a complete Github repo with CircleCI to indicate that the code has been tested
 
 ---
 
